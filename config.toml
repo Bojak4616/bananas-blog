@@ -8,6 +8,10 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
+# Renderer
+[markup.goldmark.renderer]
+unsafe= true # Allows raw HTML to be rendered in Markdown. Fine to set to `true` since there will be no user submitted content to render. 
+
 paginate=10 # articles per page
 
 [params]

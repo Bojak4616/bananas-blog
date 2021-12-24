@@ -13,15 +13,27 @@ Increasingly, I find myself being asked the question:
 
 This post will serve as a live list of resources I've come across for a variety of Blockchain topics. 
 
+<details>
+<summary> 
+
 # Introductory Content
+
+</summary>
+
 > ## What is Bitcoin and why does it matter?
 > {{< youtube "l1si5ZWLgy0?t=229" >}}
 
+
 > ## But how does Bitcoin actually work?
 > {{< youtube bBC-nXj3Ng4 >}}
+</details>
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
+<details>
+<summary>
 
 # Bitcoin
+</summary>
 
 - [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) - A.K.A Your Bitcoin/Blockchain Bible
 
@@ -35,9 +47,15 @@ This post will serve as a live list of resources I've come across for a variety 
 ## Proof of Work
 
 ## The Lighting Network (Layer 2)
+</details>
 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+<details>
+<summary>
 
 # Ethereum 
+</summary>
 
  - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - A.K.A Your Ethereum Bible
 
@@ -63,10 +81,10 @@ What are tokens?
 
 
 Fungibility
->Definition of Fungible
->1. Being something (such as money or a commodity) of such a nature that one part or quantity may be replaced by another equal part or quantity in paying a debt or settling an account
->2. Capable of mutual substitution : interchangeable 
->3. Readily changeable to adapt to new situations : flexible
+> Definition of Fungible
+> 1. Being something (such as money or a commodity) of such a nature that one part or quantity may be replaced by another equal part or quantity in paying a debt or settling an account
+> 2. Capable of mutual substitution : interchangeable 
+> 3. Readily changeable to adapt to new situations : flexible
 >
 > \- https://www.merriam-webster.com/dictionary/fungible
 
@@ -97,13 +115,20 @@ https://ethereum.org/en/developers/docs/standards/tokens/erc-721/
  
  - [Capture the Ether](https://capturetheether.com/)
  
- Self deploy your own CTF to practice exploiting Solidity code vulnerabilities -- Beginner -> Expert -- Slightly out of date
+ Self deploy your own CTF to practice exploiting Solidity code vulnerabilities -- Beginner -> Expert -- (Slightly out of date)
 
 ## Proof of Stake
 
 With an upgrade to the Ethereum protocol in process, ETH2, we'll explain Proof of Stake in this section from the perspective of ETH2. 
 
+</details>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+<details>
+<summary>
+
 # News & Security Sources
+</summary>
 
 ## Industry News and Awareness
 
@@ -127,6 +152,17 @@ A Blockchain security newsletter by [Peter Kacherginsky](https://twitter.com/_ip
 
 Subscribe to Blockchain news and categories you're interested in
 
+</details>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+<details>
+<summary>
+
 # Misc. FAQ
+</summary>
 
 ## Who is Satoshi Nakamoto?
+
+</details>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
