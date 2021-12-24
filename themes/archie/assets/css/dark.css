@@ -3,18 +3,6 @@ body {
   background-color: #202124;
 }
 
-::-moz-selection {
-  background: blue;
-  color: #fff;
-  text-shadow: none;
-}
-
-::selection {
-  background: red;
-  color: #fff;
-  text-shadow: none;
-}
-
 hr {
   border-top: 3px dotted rgb(255, 255, 165);
 }
@@ -34,7 +22,8 @@ blockquote {
   border-color: rgb(255, 255, 0);
 }
 
-blockquote p {
+blockquote p,
+blockquote li {
   color: rgb(183, 183, 183);
 }
 

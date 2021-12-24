@@ -163,6 +163,8 @@ Subscribe to Blockchain news and categories you're interested in
 
 ## Who is Satoshi Nakamoto?
 
+
+
 </details>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
