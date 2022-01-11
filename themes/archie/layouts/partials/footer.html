@@ -2,7 +2,7 @@
 <hr>
 {{- range $index, $key := .Site.Params.Social -}}
 <a class="soc" href="{{ $key.url }}" title="{{ $key.name }}" target="_bank"><i data-feather="{{ $key.icon }}"></i></a>|
-{{- end -}} 🐧 🍌
+{{- end -}} 🐧🍌
 	{{ dateFormat "2006" now }} {{ with .Site.Copyright }} {{ . }} | {{ end }} <a href="https://github.com/athul/archie" target="_bank">Archie Theme</a> | Built with <a href="https://gohugo.io" target="_bank">Hugo</a>
 </footer>
 {{ if not .Site.IsServer }}
